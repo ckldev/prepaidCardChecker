@@ -1,0 +1,29 @@
+程式更新 v1.0.3r1 (1 July 2016)：
+- [更新] UI 更新：加入ActionMode
+- [新增] Google Firebase 雲端服務
+- [新增] 每日於凌晨自動檢查儲值卡餘額 (測試中)
+- [新增] 加入使用者設定 - 自動檢查開關、時間設定、UI元件控制
+- [修復] 部份已知漏洞
+
+程式更新 v1.0.1r2 (9 June 2016)：
+- [新增] 下拉手勢 更新
+- [新增] 每日於凌晨自動檢查儲值卡餘額 (測試中)
+- [修復] 部份已知漏洞
+
+
+
+App Update (1 July 2016)
+- [Update] UI update, Add ActionMode
+- [Add] Google Firebase Cloud Services
+- [Add] User Setting : Enable/Disable Auto Check, Check Time, UI elements control
+- [Add] Auto check balance in the midnight every day (Testing)
+- [Fix]  Bug fixes
+
+App Update (9 June 2016)
+- [Add] swipe down to refresh
+- [Add] auto check balance in the midnight every day (Testing)
+- [Fix] bugs fix
+
+
+
+
